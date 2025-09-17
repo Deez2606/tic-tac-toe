@@ -7,4 +7,4 @@ Features:
 - LocalStorage scoreboard
 - Mobile-friendly UI
 
-**Play it here:** https://<Deez2606>.github.io/tic-tac-toe/
+**Play it here:** https://Deez2606.github.io/tic-tac-toe/
